@@ -21,18 +21,14 @@ Sou um entusiasta de tecnologia focado em construir soluções robustas e escal�
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silas-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silas-souza&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=silas-souza&theme=dracula" />
-</p>
 ---
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.www.linkedin.com/feed/](https://www.linkedin.com/in/silas-rsouza/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-rsouza/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silas.souzameister1@gmail.com)
 
 ---
