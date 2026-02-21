@@ -28,7 +28,7 @@ Sou um entusiasta de tecnologia focado em construir soluções robustas e escal�
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.www.linkedin.com/feed/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.www.linkedin.com/feed/](https://www.linkedin.com/in/silas-rsouza/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silas.souzameister1@gmail.com)
 
 ---
