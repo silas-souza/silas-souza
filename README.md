@@ -2,7 +2,9 @@
 
 ### 🐍 Desenvolvedor Fullstack Python em Evolução
 
-Sou um entusiasta de tecnologia focado em construir soluções robustas e escaláveis utilizando o ecossistema Python. Atualmente, dedico meu tempo ao estudo de arquitetura de software, APIs RESTful e a criação de interfaces dinâmicas.
+Me chamo Silas Souza e sou desenvolvedor front-end. Tenho formação em Análise e Desenvolvimento de Sistemas e me especializei em Desenvolvimento Full Stack Python pela EBAC, a Escola Britânica de Artes Criativas e Tecnologia.
+
+No meu dia a dia profissional, trabalho principalmente com o desenvolvimento de interfaces web modernas. Tenho experiência na construção de layouts responsivos usando HTML5 semântico e CSS3 avançado – com Flexbox e Grid Layout para criar interfaces que se adaptam perfeitamente a qualquer dispositivo.
 
 ---
 
